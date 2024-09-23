@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Print-app/static/css/main.5c59e4ff.css",
+    "main.js": "/Print-app/static/js/main.f6471732.js",
+    "static/js/453.80ad6a64.chunk.js": "/Print-app/static/js/453.80ad6a64.chunk.js",
+    "static/media/img9.png": "/Print-app/static/media/img9.a2151c5d914ec0aea299.png",
+    "static/media/img2.png": "/Print-app/static/media/img2.2695f85d4fd1d5e7fa3e.png",
+    "static/media/img5.png": "/Print-app/static/media/img5.7331bb663efa34dfa5ed.png",
+    "static/media/img7.png": "/Print-app/static/media/img7.2d629ee404a85c7a1bac.png",
+    "static/media/img4.png": "/Print-app/static/media/img4.958616c86fc761b0e166.png",
+    "static/media/img3.png": "/Print-app/static/media/img3.2c20bde9020f4903f473.png",
+    "static/media/img6.png": "/Print-app/static/media/img6.52c5523bb14b4954efad.png",
+    "static/media/img10.png": "/Print-app/static/media/img10.a1db37a94d37e0ea0600.png",
+    "static/media/img1.png": "/Print-app/static/media/img1.64e9186635af55d73f29.png",
+    "static/media/img8.png": "/Print-app/static/media/img8.6b4d830e6e183cbe2f68.png",
+    "static/media/best.svg": "/Print-app/static/media/best.5e0c702c103cca0bf2b21fc00ee04f83.svg",
+    "static/media/Maskgroup2.png": "/Print-app/static/media/Maskgroup2.c10c60dc9c2188688887.png",
+    "static/media/Maskgroup.png": "/Print-app/static/media/Maskgroup.0dd69ff035c4fd46d264.png",
+    "static/media/higher.svg": "/Print-app/static/media/higher.66cf794c780510108dca250a71a352da.svg",
+    "static/media/robust.svg": "/Print-app/static/media/robust.4e35109270ac1ada07b2f2146c768776.svg",
+    "static/media/instagram.svg": "/Print-app/static/media/instagram.a0a9a83448ddb5827d70493a84d37806.svg",
+    "static/media/thumb.svg": "/Print-app/static/media/thumb.78f6f9e5922578a8424b598049ac3f3d.svg",
+    "static/media/twitter.svg": "/Print-app/static/media/twitter.e0cf1fcc791b8372662dcb30b67c2020.svg",
+    "static/media/facebook.svg": "/Print-app/static/media/facebook.1d8e0397525aadb52a029adc60908a02.svg",
+    "index.html": "/Print-app/index.html",
+    "static/media/right.svg": "/Print-app/static/media/right.4e57f4be7e0416d528c50521e02ce988.svg",
+    "static/media/tick.svg": "/Print-app/static/media/tick.3fd92fc274d7ca0dce7826e2ba2fec50.svg",
+    "main.5c59e4ff.css.map": "/Print-app/static/css/main.5c59e4ff.css.map",
+    "main.f6471732.js.map": "/Print-app/static/js/main.f6471732.js.map",
+    "453.80ad6a64.chunk.js.map": "/Print-app/static/js/453.80ad6a64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c59e4ff.css",
+    "static/js/main.f6471732.js"
+  ]
+}
